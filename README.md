@@ -5,7 +5,7 @@ A concept e-commerce redesign for the **Puffmi** vape brand. Focused on bold pro
 
 > 🚧 **Status:** Work in Progress — homepage, catalog flow, and product page are functional.
 
-🔗 **[View Live Website](https://puffmi.vercel.app/)**
+🔗 **[View Live Website](https://puffmi-next-redesign.vercel.app)**
 
 ---
 
