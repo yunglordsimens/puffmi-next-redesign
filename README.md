@@ -1,3 +1,5 @@
+Обновленный README.md (Копируй это)
+Markdown
 # PUFFMI // HIGH-PERFORMANCE E-COMMERCE
 
 A speculative e-commerce storefront designed and engineered for the **Puffmi** brand. This project bridges premium streetwear aesthetics with high-conversion UI patterns, focusing on zero-latency interactions, GSAP-powered motion, and a product-first visual hierarchy.
@@ -89,3 +91,13 @@ npm install
 
 # Start the development server
 npm run dev
+Navigate to http://localhost:3000 to view the application.
+
+/ ROADMAP
+[x] Homepage Architecture (Hero, Marquee, Bento Grid)
+[x] Dynamic Product Detail Page (PDP) with color switcher
+[x] Toast Notification System integration
+[ ] Cart Drawer & Checkout Flow implementation
+[ ] Advanced Catalog Filtering logic
+[ ] Integration with Headless CMS (Contentful / Sanity)
+Architecture & Design by Maria Chernobay, 2026.
