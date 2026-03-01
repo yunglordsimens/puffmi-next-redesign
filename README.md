@@ -1,5 +1,3 @@
-Обновленный README.md (Копируй это)
-Markdown
 # PUFFMI // HIGH-PERFORMANCE E-COMMERCE
 
 A speculative e-commerce storefront designed and engineered for the **Puffmi** brand. This project bridges premium streetwear aesthetics with high-conversion UI patterns, focusing on zero-latency interactions, GSAP-powered motion, and a product-first visual hierarchy.
